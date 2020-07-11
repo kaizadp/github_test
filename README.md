@@ -13,3 +13,7 @@ This is my readme file
 
 
 Tayte changed this
+
+``` {r}
+session.Info()
+```
