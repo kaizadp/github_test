@@ -17,3 +17,5 @@ Tayte changed this
 ``` {r}
 session.Info()
 ```
+
+new info added July 16
