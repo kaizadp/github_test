@@ -19,3 +19,6 @@ session.Info()
 ```
 
 new info added July 16
+
+- [ ] a
+- [ ] b
